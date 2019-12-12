@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Native_App</string>
+    <string name="user">User</string>
+    <string name="create">Create</string>
 </resources>
